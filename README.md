@@ -47,14 +47,16 @@ The features within the provided dataset are:
 ```
 game_id: The unique identifier for each game
 game_stats: There are many boxscore and advanced stats for each game
-vegas_spread: The vegas line that we are attempting to beat.
+vegas_spread: The vegas line that we are attempting to beat
 ```
 
 Additionally, you will find a CSV file named `test.csv.tar.bz2` that
 contains the following features:
 ```
-id: The unique identifier for the document
-text: The text that should be used for making your submission file
+game_id: The unique identifier for the document
+vegas_spread: The vegas line that we are attempting to beat
+prediction: Output from your model
+bet_recommendation: Which side of the game should our client bet or should they not bet this game (Home, Away, No Bet)
 ```
 
 _NOTE: Please refrain from using any data sources other than what you might find in the CSV files._ 
