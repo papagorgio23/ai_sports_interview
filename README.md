@@ -75,6 +75,8 @@ For this challenge, _you_ are tasked with selecting the appropriate
 metric(s) with which to evaluate your model. As mentioned above, you will
 need to provide justification for your choice(s).
 
+*Documentation is important*
+
 ## Timeline
 As a candidate, you have 7 days in order to complete and submit your pull
 request for review, but remember, there are other candidates being considered
