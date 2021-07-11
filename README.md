@@ -14,8 +14,9 @@ and we will do our best to address your question(s) in a timely manner.
 ## Background
 A.I. Sports operates in the fast-paced sports betting industry. Predicting the results of a sporting event is extremely challenging. Our clients understand this difficulting but expect our models outperform the market. We have to ensure that our predicted probabilites allow bettors to find an edge over their competition.
 
-A.I Sports is dedicated to helping clients make the best decisions possible with their captial. We provide cutting-edge products that enable them to be successful. We are always experimenting and tinkering with our models to improve results. Testing out new approaches and various algorithms is all in a days work. The drive to always improve is needed if you want to excel here. The ability to build and deploy models quickly is a needed skillset.
+A.I Sports is dedicated to helping clients make the best decisions possible with their captial. We provide cutting-edge products that enable them to be successful. We are always experimenting and tinkering with our models to improve results. Testing out new approaches and various algorithms is all in a day's work. The drive to always improve is needed if you want to excel here. The ability to build and deploy models quickly is a needed skillset.
 
+_NOTE: Unlike many interview processes at other companies, A.I. Sports weights the canidate's data project over anything else. If they can get the job done with accuracy and speed, we want them on our team!_
 
 
 ## The Challenge
