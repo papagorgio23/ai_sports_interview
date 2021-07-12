@@ -5,9 +5,7 @@ Let's get started.
 
 Take some time to read the instructions below. If you have
 any questions _before you begin_, please send an email to 
-[jason@aisportsfirm.com](mailto:jason@aisportsfirm.com) &
-[jared@aisportsfirm.com](mailto:jared@aisportsfirm.com)
-and we will do our best to address your question(s) in a timely manner.
+[jason@aisportsfirm.com](mailto:jason@aisportsfirm.com), [jared@aisportsfirm.com](mailto:jared@aisportsfirm.com), or [ian@aisportsfirm.com](mailto:ian@aisportsfirm.com) and we will do our best to address your question(s) in a timely manner.
 
 
 
