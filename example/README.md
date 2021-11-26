@@ -4,4 +4,4 @@
 - RMSE: 13.45531
 - ACCURACY: 53.9% 
 
-I chose ROI as the primary metric because we want to make money here...
+I chose ROI as the primary metric because we want to make money here... however there are some other metrics that should be considered. 
